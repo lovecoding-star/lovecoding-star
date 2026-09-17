@@ -7,8 +7,8 @@
 ### `CSE × AI/ML × Creative Developer` 🤖
 
 [![GitHub](https://img.shields.io/badge/GitHub-lovecoding--star-181717?style=for-the-badge&logo=github)](https://github.com/lovecoding-star)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/pujitha-pasam-1960b43ab)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail)](mailto:pujithapasm45@gmail.com)
 
 </div>
 
