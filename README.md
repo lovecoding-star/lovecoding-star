@@ -135,16 +135,6 @@ A movie application with search, watchlists, statistics and movie details.
 </table>
 ---
 
-## 🌱 Growing One Commit At A Time
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lovecoding-star&bg_color=0D1117&color=FFB6D9&line=C8A2FF&point=FFFFFF&area=true&hide_border=true" width="95%">
-
-</div>
-
----
-
 ## 🎀 Outside the Code
 
 <div align="center">
