@@ -133,23 +133,6 @@ A movie application with search, watchlists, statistics and movie details.
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub Corner
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lovecoding-star&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF9BCB&icon_color=C8A2FF&text_color=FFFFFF" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovecoding-star&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF9BCB&text_color=FFFFFF" height="165" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=lovecoding-star&theme=radical&hide_border=true&background=0D1117&ring=FF9BCB&fire=FF9BCB&currStreakLabel=C8A2FF" width="70%">
-
-</div>
-
 ---
 
 ## 🌱 Growing One Commit At A Time
