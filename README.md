@@ -24,45 +24,6 @@ I enjoy taking random ideas, turning them into projects, breaking things, fixing
 
 ---
 
-## 🤖 AI LAB · ✦
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🧠 ARTIFICIAL INTELLIGENCE
-
-Generative AI  
-LLMs  
-Intelligent Applications  
-AI Agents
-
-</td>
-<td width="33%" align="center">
-
-### 🧬 MACHINE LEARNING
-
-Data Analysis  
-Model Building  
-Experimentation  
-Predictive Models
-
-</td>
-<td width="33%" align="center">
-
-### 👁️ EXPLORING
-
-Deep Learning  
-Computer Vision  
-NLP  
-Reinforcement Learning
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🎀 Some Updates
 
 - 🤖 Currently exploring **AI & Machine Learning**
@@ -175,28 +136,13 @@ A movie application with search, watchlists, statistics and movie details.
 
 ---
 
-## 🌌 My Tech Universe
-
-<div align="center">
-
-| 🤖 AI / ML | 🌸 Development | ⚙️ Tools | 🧠 Exploring |
-|---|---|---|---|
-| Python | JavaScript | Git | GenAI |
-| NumPy | React | GitHub | LLMs |
-| Pandas | HTML / CSS | VS Code | Computer Vision |
-| ML | Vite | Figma | Deep Learning |
-
-</div>
-
----
-
 ## 📊 GitHub Corner
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lovecoding-star&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF9BCB&icon_color=C8A2FF&text_color=FFFFFF" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=lovecoding-star&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF9BCB&icon_color=C8A2FF&text_color=FFFFFF" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovecoding-star&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF9BCB&text_color=FFFFFF" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovecoding-star&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF9BCB&text_color=FFFFFF" height="165" />
 
 <br><br>
 
